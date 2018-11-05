@@ -31,6 +31,8 @@ A tree plugin for vue2
       }
     })
 ```
+## Support 
+IE11
 
 ##  Setup
 
